@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\bin\Debug\net9.0\FinalTAP.exe
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\bin\Debug\net9.0\FinalTAP.deps.json
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\bin\Debug\net9.0\FinalTAP.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\bin\Debug\net9.0\FinalTAP.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\bin\Debug\net9.0\FinalTAP.pdb
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\refint\FinalTAP.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.pdb
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\FinalTAP.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\FinalTAP\FinalTAP\obj\Debug\net9.0\ref\FinalTAP.dll
